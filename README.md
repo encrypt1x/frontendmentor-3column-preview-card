@@ -30,7 +30,7 @@ Users are able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-ZwjWdf_Ha-)
 - Live Site URL: [Live Site](https://encrypt1x.github.io/frontendmentor-3column-preview-card/)
 
 ## My process
